@@ -479,8 +479,7 @@ body{
     color: #fff;
     animation: pulse 3s infinite;
 }
-
-    .a{
+.div a{
         text-decoration: none;
         text-color: none;
-    }
+}
