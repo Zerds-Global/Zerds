@@ -464,6 +464,9 @@ body{
     font-size: 0.8rem;
     color: #555;
   }
+.footer a{
+    text-decoration: none;
+    text-color: none;
   
 /* styling back to top button */
 #btn-back-to-top {
